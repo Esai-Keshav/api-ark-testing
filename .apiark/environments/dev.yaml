@@ -1,0 +1,4 @@
+name: Dev
+variables:
+  base: https://api-staging.sakshamsenior.com
+scope: shared
